@@ -1,2 +1,3 @@
 first_add_commit_to master_branch
 lets check git log -2 test1
+git log 2 test2
