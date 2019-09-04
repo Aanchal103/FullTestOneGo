@@ -1,0 +1,2 @@
+TOChcek if it revert the changes commited in second commoit,
+in first commit it simply deleted
